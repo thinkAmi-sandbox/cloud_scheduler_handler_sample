@@ -11,3 +11,5 @@
 - WSL2 Ubuntu
 
 ## Related Blog (Written in Japanese)
+
+- [Django + google-authで、Google Cloud SchedulerからのHTTPリクエストのみ受け付けるAPIエンドポイントを作成する - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2022/09/28/220244)
